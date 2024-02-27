@@ -1,2 +1,2 @@
-# CVZaenal.github.io
+# CVZaenal
 Simple CV Zaenal
